@@ -1,0 +1,6 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+body {
+    background-color: whitesmoke;
+    overflow: hidden;
+}
